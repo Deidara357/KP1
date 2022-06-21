@@ -6,7 +6,7 @@ namespace КП1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello GitHub !");
+            Console.WriteLine("Hello GitHub !\n");
 
             string answ;
             do
